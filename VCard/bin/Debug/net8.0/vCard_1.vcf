@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Carmelo Guillot
+N:Guillot;Carmelo
+EMAIL:carmelo.guillot@example.com
+TEL:079 949 93 25
+ADR:;;Toffen;;Switzerland
+END:VCARD

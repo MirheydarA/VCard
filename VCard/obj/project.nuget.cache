@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x67c4b0jWlSRikBVsXZKwN/nIFtmY98WQN8t9T9NzANgXOIh+IskTLYeKwiv1ENza1VnF03mohyy8HIBwIbQPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\projects\\VCard\\VCard\\VCard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
